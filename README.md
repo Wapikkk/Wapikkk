@@ -28,8 +28,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wapikkk&show_icons=true&theme=dark&hide_border=true)
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wapikkk&layout=compact&theme=dark&hide_border=true)
-
 </div>
