@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-(https://skillicons.dev/icons?i=flutter,dart,nodejs,laravel,mysql,html5,css3,git,github,postman)
+![Stack](https://skillicons.dev/icons?i=flutter,dart,nodejs,laravel,mysql,html5,css3,git,github,postman)
 
 <br>
 
