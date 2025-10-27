@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 <br>
 
 <div align="left">
+  
 ### 🧑🏻‍💻 Now, Learn
+
 </div>
 
 ![](https://skillicons.dev/icons?i=kotlin,linux,nextjs,docker&perline=10)
