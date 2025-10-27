@@ -1,4 +1,4 @@
-## Hi there 👋 Newbiee
+## Hi Waffiq Muchlishin Here!👋
 
 <!--
 **Wapikkk/Wapikkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,9 +27,5 @@ Here are some ideas to get you started:
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wapikkk&show_icons=true&theme=dark&hide_border=true)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wapikkk&layout=compact&theme=dark)
 
 </div>
