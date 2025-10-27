@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 
 <br>
 
+<div align="left">
+  
+### 📶 GitHub Stats
+
+</div>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wapikkk&show_icons=true&theme=dark&hide_border=true)
 
 </div>
