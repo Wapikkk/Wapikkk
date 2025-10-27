@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 </div>
 
-![](https://skillicons.dev/icons?i=kotlin,linux,nextjs,docker&perline=10)
+![](https://skillicons.dev/icons?i=react,prisma,linux,nextjs&perline=10)
 
 <br>
 
