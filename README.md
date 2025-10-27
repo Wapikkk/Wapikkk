@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 <br>
 
+### 🧑🏻‍💻 Now, Learn
+
+![](https://skillicons.dev/icons?i=kotlin,linux,nextjs,docker&perline=10)
+
+<br>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wapikkk&show_icons=true&theme=dark&hide_border=true)
 
 </div>
