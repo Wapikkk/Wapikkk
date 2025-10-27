@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Flutter](https://raw.githubusercontent.com/username_icon_pack/repo-name/main/icons/flutter.svg))
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
