@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![](https://skillicons.dev/icons?i=flutter,dart,nodejs,laravel,mysql,html5,css3,git,github,postman&perline=10)
+![](https://skillicons.dev/icons?i=flutter,dart,nodejs,laravel,mysql,html,css,git,github,postman&perline=10)
 
 <br>
 
