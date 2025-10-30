@@ -29,8 +29,5 @@
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wapikkk&show_icons=true&theme=dark&hide_border=true)
- 
- <br>
 
-### 📊 WakaTime Stats
 </div>
