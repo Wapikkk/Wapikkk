@@ -32,7 +32,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Wapikkk&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wapikkk&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-</p>
+</p> -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
 </div>
