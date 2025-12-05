@@ -18,7 +18,7 @@
 
 </div>
 
-![](https://skillicons.dev/icons?i=react,nextjs,prisma,rust,linux&perline=10)
+![](https://skillicons.dev/icons?i=react,nextjs,prisma,go,linux&perline=10)
 
 <br>
 
