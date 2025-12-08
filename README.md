@@ -18,7 +18,7 @@
 
 </div>
 
-![](https://skillicons.dev/icons?i=kotlin,kotlinmultiplatform,go,linux&perline=10)
+![](https://skillicons.dev/icons?i=kotlin,kmp,go,linux&perline=10)
 
 <br>
 
