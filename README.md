@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wapikkk&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
-[![Statistik LeetCode](https://leetcode-stats-six.vercel.app/?username=Wapeeekkk&theme=dark)](https://leetcode.com/Wapeeekkk)
+[![Statistik LeetCode](https://leetcode-stats-six.vercel.app/?username=Wapikk&theme=dark)](https://leetcode.com/Wapikk)
 
 </p>
 
