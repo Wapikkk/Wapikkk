@@ -30,8 +30,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wapikkk&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-
-<br>
  [![LeetCode](https://leetcode-stats-six.vercel.app/?username=Wapikk&theme=dark)](https://leetcode.com/u/Wapikk/)
 </p>
 
