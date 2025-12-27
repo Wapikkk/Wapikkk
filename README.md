@@ -30,7 +30,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wapikkk&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
- [![LeetCode](https://leetcode-stats-six.vercel.app/?username=Wapikk&theme=dark)](https://leetcode.com/u/Wapikk/)
+
+<img src="https://leetcard.jacoblin.cool/Wapikk?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
 </p>
 
 </div>
