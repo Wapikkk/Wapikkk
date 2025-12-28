@@ -31,7 +31,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wapikkk&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://leetcard.jacoblin.cool/Wapikk?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+  <br>
+
+  <img src="https://leetcard.jacoblin.cool/Wapikk?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
 </p>
 
 </div>
