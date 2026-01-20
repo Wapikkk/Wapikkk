@@ -33,6 +33,9 @@
 
   <br>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wapikkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  <br>
   <img src="https://leetcard.jacoblin.cool/Wapikk?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
 </p>
 
