@@ -14,7 +14,7 @@
 
 <div align="left">
   
-### 🧑🏻‍💻 Now, Learn
+### 🧑🏻‍💻 Currently Learning
 
 </div>
 
