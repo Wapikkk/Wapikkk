@@ -29,7 +29,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wapikkk&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wapikkk&theme=dark" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wapikkk&theme=dark" alt="Top Languages by Commit" width="48%" />
 </p>
 
 </div>
