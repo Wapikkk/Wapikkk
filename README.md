@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wapikkk&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wapikkk&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 </div>
