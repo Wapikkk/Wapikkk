@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wapikkk&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Wapikkk?cardType=level&theme=maroongold&fontFamily=Annapurna%20SIL&preferLogin=false)](https://git.io/awesome-stats-card)
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wapikkk&theme=dark" alt="Top Languages by Repo" width="30%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wapikkk&theme=dark" alt="Top Languages by Commit" width="30%" /> -->
 </p>
