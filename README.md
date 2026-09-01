@@ -28,7 +28,7 @@
 
 </div>
 
-<p align="center">
+<p align="left">
  <a href="https://github.com/Wapikkk">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Wapikkk?cardType=level&theme=maroongold&fontFamily=Annapurna%20SIL&preferLogin=false" alt="My Awesome Stats" />
   </a>
