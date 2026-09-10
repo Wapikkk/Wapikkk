@@ -6,10 +6,13 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  
-![](https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,expressjs,laravel,mysql,postgresql,git,github,postman,firebase,llama,androidstudio,idea&perline=10)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,expressjs,laravel,mysql,postgresql,git,github,postman,firebase,androidstudio,idea" />
+  <br><br>
+  <a href="https://ollama.com">
+    <img src="https://img.shields.io/badge/Ollama-Black?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  </a>
+</p>
 <br>
 
 <div align="left">
