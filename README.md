@@ -8,7 +8,7 @@
 
 <div align="center">
   
-![](https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,expressjs,laravel,mysql,postgresql,git,github,postman,firebase,ollama,androidstudio,idea&perline=10)
+![](https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,expressjs,laravel,mysql,postgresql,git,github,postman,firebase,llama,androidstudio,idea&perline=10)
 
 <br>
 
