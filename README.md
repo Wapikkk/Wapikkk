@@ -27,7 +27,10 @@
 
 </div>
 
-<p align="left">
+<p align="center">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wapikkk&theme=aura_dark&animation=load&duration=2)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wapikkk&theme=aura_dark&animation=load&duration=2)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wapikkk&theme=aura_dark&animation=load&duration=2)
  <a href="https://github.com/Wapikkk">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Wapikkk?cardType=level&theme=maroongold&fontFamily=Annapurna%20SIL&preferLogin=false" alt="My Awesome Stats" />
   </a>
