@@ -3,7 +3,7 @@
 ## Hi Waffiq Muchlishin Here!👋
 
 <a href="https://github.com/Wapikkk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Web+Developer;Exploring+Android+Developer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Web+Developer;Exploring+Android+Development" alt="Typing animation" />
 </a>
 
 </div>
@@ -24,7 +24,7 @@
 
 ### 🧑🏻‍💻 Currently Learning
 
-<p align="center>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=go,redis,ubuntu&perline=10" />
 </p>
 
