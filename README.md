@@ -7,7 +7,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,expressjs,laravel,mysql,postgresql,git,github,postman,firebase,androidstudio,idea" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,expressjs,laravel,mysql,postgresql,git,github,postman,firebase,androidstudio,idea,docker" />
 </p>
 <br>
 
@@ -17,7 +17,7 @@
 
 </div>
 
-![](https://skillicons.dev/icons?i=go,docker,ubuntu&perline=10)
+![](https://skillicons.dev/icons?i=go,redis,ubuntu&perline=10)
 
 <br>
 
