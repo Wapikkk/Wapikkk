@@ -40,3 +40,17 @@
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Wapikkk?cardType=level&theme=maroongold&fontFamily=Annapurna%20SIL&preferLogin=false" alt="My Awesome Stats" />
   </a>
 </p>
+
+<hr>
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/waffiq-muchlishin-516249314">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/waffiqw_">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="48" />
+  </a>
+</p>
